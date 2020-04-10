@@ -1,0 +1,3 @@
+/Users/bennettw0127/Documents/IT 2040/Crime Analyzer/obj/Debug/netcoreapp3.1/Crime Analyzer.csprojAssemblyReference.cache
+/Users/bennettw0127/Documents/IT 2040/Crime Analyzer/obj/Debug/netcoreapp3.1/Crime Analyzer.AssemblyInfoInputs.cache
+/Users/bennettw0127/Documents/IT 2040/Crime Analyzer/obj/Debug/netcoreapp3.1/Crime Analyzer.AssemblyInfo.cs
